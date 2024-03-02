@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Grow Castle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Grow_Castle_jar</output-path>
+    <root id="archive" name="Grow Castle.jar">
+      <element id="module-output" name="Grow Castle" />
+    </root>
+  </artifact>
+</component>
